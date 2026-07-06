@@ -13,6 +13,7 @@ Audit Linux process memory mappings for runtime integrity indicators.
 
 ## Example
 ./proc_mem_audit \<pid\>
+./proc_mem_audit 12345
 
 ## Why this matters
 Executable anonymous memory and WX mappings are useful indicators for runtime compromise or weak process hardening.
