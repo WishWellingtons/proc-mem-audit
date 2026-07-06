@@ -12,7 +12,7 @@ Audit Linux process memory mappings for runtime integrity indicators.
 - Summarises suspicious mapping count and rule hits
 
 ## Example
-./proc_mem_audit \<pid\>
+./proc_mem_audit \<pid\>  
 ./proc_mem_audit 12345
 
 ## Why this matters
